@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 
 
-- 🔭 Working on machine learning and NLP application using Python.
-- 🌱 I’m currently learning about NLP and LLMs.
+- 🔭 Working on machine learning and NLP applications using Python.
+- 🌱 I’m currently learning about LLMs.
 - 👯 I’m looking to collaborate on NLP Projects and libraries.
 
 <br>
